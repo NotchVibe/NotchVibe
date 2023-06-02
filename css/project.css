@@ -1,0 +1,39 @@
+.container-fluid {
+    height: 3rem;
+}
+
+.logo img {
+    height: 6rem;
+    width: auto;
+    margin-right: 4rem;
+}
+
+.book-btn {
+    background-color: black;
+    border-radius: 3rem;
+    height: 5vh;
+    width: 10vw;
+}
+
+.book-btn:hover {
+    height: 6vh;
+    width: 12vw;
+}
+
+.book-btn h2 {
+    color: rgb(255, 255, 255);
+    font-size: 1.6em;
+    text-align: center;
+    justify-content: center;
+}
+
+.book-btn a {
+    text-decoration: none;
+    color: white;
+}
+
+/* .mtop is added by me in line-62 */
+
+.mtop {
+    margin-top: 5rem;
+}
